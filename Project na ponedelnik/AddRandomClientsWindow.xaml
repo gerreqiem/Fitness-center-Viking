@@ -1,0 +1,15 @@
+﻿<Window x:Class="FitnessCenter_VikingApp.AddRandomClientsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить случайных клиентов" Height="150" Width="300">
+    <Grid Background="#E6E6FA">
+        <StackPanel Margin="10">
+            <TextBlock Text="Количество клиентов:"/>
+            <TextBox x:Name="NumberOfClientsTextBox"/>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Добавить" Background="#9400D3" Click="AddButton_Click"/>
+                <Button Content="Назад" Background="#8A2BE2" Click="CancelButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
