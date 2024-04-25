@@ -227,7 +227,8 @@ namespace FitnessCenter_VikingApp
     
 }
 
-Также в этом прокте реализована dll библиотека. SQLiteClientServiceAdapter выступает в роли адаптера, который преобразует вызовы методов интерфейса IClientService в вызовы методов класса SQLiteClientRepository и наоборот.
+
+Также в этом проекте реализована dll библиотека. SQLiteClientServiceAdapter выступает в роли адаптера, который преобразует вызовы методов интерфейса IClientService в вызовы методов класса SQLiteClientRepository и наоборот.
 
 using System;
 
