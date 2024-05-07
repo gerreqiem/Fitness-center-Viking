@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading;
 using System.Windows;
 using System.Windows.Data;
+using System.Windows.Input;
 namespace FitnessCenter_VikingApp
 {
     public partial class MainWindow : Window, INotifyPropertyChanged
@@ -43,6 +44,10 @@ namespace FitnessCenter_VikingApp
             {
                 cmd.ExecuteNonQuery();
             }
+        }
+        private void Exit_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
         }
         public ObservableCollection<ClientDTO> Clients
         {
