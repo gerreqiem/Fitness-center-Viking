@@ -6,7 +6,7 @@
 
 Открывая приложение, вы находитесь в главном меню. Тут хранятся записи о клиентах фитнес центра и показывается информация о каждом клиенте. Так же тут расположены четыре кнопки, о которых будет рассказано чуть ниже.  
 
-![Рисунок1](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/f3ac8366-b855-49d7-97aa-a89eb7e87d2c)
+![Рисунок1](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/a7d130e0-74b3-4ca8-882a-f4d4637ae793)
 
 -Главное меню приложения-
 
@@ -30,17 +30,18 @@
 
 Если клиент перестает ходить в фитнес центр, мы будем использовать кнопку “Удалить клиента”, за два простых клика он исчезает. 
 
-![Рисунок4](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/1687246c-27ec-4397-843a-79784e8504f3)
+![Рисунок2](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/787619b4-e510-4a80-b94e-3f395b198533)
 
-![Рисунок5](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/5774ee86-c395-43c3-922e-90d83746b3f1)
+![Рисунок3](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/52ceef52-385e-4ed1-acc3-2630a207c02d)
 
 -Кнопка “Удалить клиента”-
 
 
 
-![Рисунок6](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/5df8744b-6106-4956-8d0f-3a1153afd889)
+![Рисунок4](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/058ef50c-0cf7-4655-ba25-8d10fbdec0e9)
 
-![Рисунок7](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/96094145-4110-4172-bdff-a6967a7d03d4)
+![Рисунок5](https://github.com/gerreqiem/Fitness-center-Viking/assets/167652940/249d7bac-bdeb-4c73-b8b5-7d7129cb6d7d)
+
 
 -Добавить случайных клиентов-
 
